@@ -30,7 +30,9 @@
 > 
 > GCC or MinGW-w64
 >
-> Ice Station Z Function Hook (ISZFH) Executable (Or another app to load ISZ Functions via MainApp).
+> Ice Station Z Function Hook (ISZFH) Executable.
+>
+> Or another app to load ISZ Functions via MainApp.
 
 
 # Name Scheme:
