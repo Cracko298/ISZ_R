@@ -6,7 +6,7 @@
 # Download Compiled:
 - Download [Windows x64]().
 - Download [Linux/Unix]().
-- Download [ISZF(H)](https://github.com/ISZ-Hacker-Organization/ISZF/raw/main/py_compiled/iszf.exe).
+- Download [ISZF(H)](https://github.com/ISZ-Hacker-Organization/ISZF/raw/main/py_compiled/iszf.exe) (Ice Station Z Function Hook).
 
 # Loading/Injecting:
 ```
@@ -29,6 +29,8 @@
 > C++ 14 (or Newer).
 > 
 > GCC or MinGW-w64
+>
+> Ice Station Z Function Hook (ISZFH) Executable (Or another app to load ISZ Functions via MainApp).
 
 
 # Name Scheme:
@@ -41,6 +43,7 @@ ISZ_R     x64/X32        w/l          *.dll/*.so
 
 ## Features:
 - Enables Running in ISZ-2021.
+- 
 
 ## Update Note(s):
 ### Version v1.0 Released
