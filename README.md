@@ -45,7 +45,8 @@ ISZ_R     x64/X32        w/l          *.dll/*.so
 
 ## Features:
 - Enables Running in ISZ-2021.
-- 
+- Press the "**.**" key to Run.
+- Run Speed is set from 600 > 1000 (for 7.5 seconds).
 
 ## Update Note(s):
 ### Version v1.0 Released
