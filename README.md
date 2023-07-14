@@ -5,7 +5,7 @@
 # Download Compiled:
 - Download [Windows x64]().
 - Download [Linux/Unix]().
-- Download the [Example Reader](https://github.com/ISZ-Hacker-Organization/ISZF/raw/main/py_compiled/iszf.exe).
+- Download [ISZF(H)](https://github.com/ISZ-Hacker-Organization/ISZF/raw/main/py_compiled/iszf.exe).
 
 # Loading/Injecting:
 ```
