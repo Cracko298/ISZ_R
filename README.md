@@ -1,6 +1,7 @@
 # ISZ_R
 - A simple Dynamic Link Library *.dll *.so Shared Library for ISZ-2021 which permits Running in ISZ.
 - Requires the UE4 Console, and needs to be called from another Application or Script.
+- Ice Station Z needs to be opened to load the Plugin.
 
 # Download Compiled:
 - Download [Windows x64]().
@@ -35,3 +36,12 @@
 ISZ_R     x64/X32        w/l          *.dll/*.so
 ^ Name    ^ CPU Arch     ^ OS Type    ^ Extension
 ```
+
+# Notes:
+
+## Features:
+- Enables Running in ISZ-2021.
+
+## Update Note(s):
+### Version v1.0 Released
+- Running is Still Jank. But works well enough to warrent a Release.
