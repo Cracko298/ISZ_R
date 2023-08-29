@@ -4,8 +4,8 @@
 - Ice Station Z needs to be opened to load the Plugin.
 
 # Download Compiled:
-- Download [Windows x64]().
-- Download [Linux/Unix]().
+- Download [Windows x64](https://github.com/ISZ-Hacker-Organization/ISZ_R/releases/download/v1.0.0/ISZ_Rx64w.dll).
+- Download [Linux/Unix](https://github.com/ISZ-Hacker-Organization/ISZ_R/releases/download/v1.0.0/ISZ_Rx64w.so).
 - Download [ISZF(H)](https://github.com/ISZ-Hacker-Organization/ISZF/raw/main/py_compiled/iszf.exe) (Ice Station Z Function Hook).
 
 # Loading/Injecting:
